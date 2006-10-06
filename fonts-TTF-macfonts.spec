@@ -1,4 +1,5 @@
 Summary:	Mac OS X fonts
+Summary(pl):	Fonty z Mac OS X
 Name:		fonts-TTF-macfonts
 Version:	0.1
 Release:	1
@@ -17,6 +18,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 Mac OS X fonts.
+
+%description -l pl
+Fonty z Mac OS X.
 
 %prep
 %setup -q -n Fonts
