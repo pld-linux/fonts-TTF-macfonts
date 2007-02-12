@@ -1,5 +1,5 @@
 Summary:	Mac OS X fonts
-Summary(pl.UTF-8):   Fonty z Mac OS X
+Summary(pl.UTF-8):	Fonty z Mac OS X
 Name:		fonts-TTF-macfonts
 Version:	0.1
 Release:	1
